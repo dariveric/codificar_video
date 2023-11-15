@@ -5,3 +5,4 @@ if __name__ == "__main__":
     carpeta_salida = "d:\\out_dir\\"
     procesador = ProcesadorDeVideos(carpeta_entrada, carpeta_salida)
     procesador.procesar_archivos()
+
